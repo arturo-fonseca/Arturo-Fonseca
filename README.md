@@ -3,7 +3,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
--
+  - [Setup SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [File Integrity Model ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Rest API Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
